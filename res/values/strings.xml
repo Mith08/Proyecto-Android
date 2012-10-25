@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">DBergelAPP2</string>
+    <string name="Paco">La madre del dac es puta</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dac">El dac es muy homosexual</string>
+    <string name="dac1">Dac retardet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+
+</resources>
